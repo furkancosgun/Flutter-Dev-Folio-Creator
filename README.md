@@ -20,7 +20,9 @@ This project is built with Flutter and uses GitHub api.
 ## Installation
 
 Dev_folio has a very simple, three-step installation process.
-**1.   Add your github username inside the const file**
+
+
+**1. Add your github username inside the const file**
 
 	const  username = "Here Your Username";
 
